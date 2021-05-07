@@ -11,7 +11,6 @@ tour.name = VR FastTrack // Yleinen-haastattelu
 
 ### Title
 panorama_4944636D_40F9_F1DE_41CC_976CC19FDDB4.label = ala aula 1
-panorama_497B3E6B_40F7_33DA_41B4_70D65ACF029F.label = tehdas 2
 panorama_497C27D3_40F7_50CA_41C5_E0162734E6E9.label = tehdas 3a
 panorama_497C6DA3_40F7_514A_41B1_03C32CB13E63.label = yla aula 2
 panorama_497CA404_40F7_574E_41CF_94F8888D930D.label = ylä aula 1
@@ -25,7 +24,6 @@ panorama_497D3FF9_40F8_D0B9_4175_7C7106B81484.label = rappusilla
 panorama_497D4209_40F8_D346_41A6_FA6350987D8D.label = tapaaminen 2
 panorama_497D66A2_40F8_D34A_41AD_D6450C9BDDF1.label = pukuhuone kiinni
 panorama_497D6904_40F8_F14E_41CA_7A3F4C4BAB43.label = tapaaminen 1
-panorama_497D94E4_40F7_30CE_41BC_242E4E9BD60C.label = tehdas 1
 panorama_497DAB8B_40F8_D15A_41A7_A57B7D88B130.label = tapaaminen tyhjä
 panorama_497DB184_40F7_714E_41C6_0F229B67BD73.label = tehdas 3b
 panorama_497DBABD_40F7_70BE_41AF_79CBD28EF087.label = tehtaalle
@@ -36,3 +34,5 @@ panorama_497F6499_40F9_3779_41CD_6F9631021721.label = Eteinen 1
 panorama_4C425964_4179_31CE_4199_6B904EA11B60.label = yleinen_aloitusKuva
 panorama_4D0C97B1_4179_5146_41CD_D1D260DEB826.label = yleinen_tutoriaali
 panorama_4D0D92CF_4179_50DA_41BE_D449E1A70C53.label = yleinen_theEND
+panorama_60E856D4_431B_50CF_41B7_8248AB44D1C2.label = tehdas 1
+panorama_6345F697_431B_734A_41AD_181B06469F2B.label = tehdas 2
