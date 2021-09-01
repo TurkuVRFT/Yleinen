@@ -1,6 +1,7 @@
 {
- "name": "VR FastTrack // Yleinen-haastattelu",
  "background_color": "#333333",
+ "start_url": "index.htm?installed=true",
+ "name": "VR FastTrack // Yleinen-haastattelu",
  "theme_color": "#333333",
  "icons": [
   {
@@ -39,6 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
  "display": "fullscreen"
 }
